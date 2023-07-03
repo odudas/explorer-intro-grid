@@ -31,21 +31,21 @@ Todo grid é composto de 2 principais grupos:
 
 Existem 9 propriedades fundamentais
 
-**6 aplicadas em container**
-`align-content`
-`justify-content`
-`place-content`
+**6 aplicadas em container** <br/>
+`align-content` <br/>
+`justify-content` <br/>
+`place-content` <br/>
 
-`align-itens`
-`justify-itens`
-`place-itens`
+`align-itens` <br/>
+`justify-itens` <br/>
+`place-itens` <br/>
 
-**3 aplicadas em items**
-`align-self`
-`justify-self`
-`place-self`
+**3 aplicadas em items** <br/>
+`align-self` <br/>
+`justify-self` <br/>
+`place-self` <br/>
 
-Então podemos separar em 3 grupos:
+Então podemos separar em 3 grupos: <br/>
 `align` Y, `justify` X, `place` Y,X
 
 E cada um deles irá observar ou o
